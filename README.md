@@ -9,9 +9,9 @@ A full-stack web app where homeowners can post service requests and tradespeople
 - **ODM**: Mongoose
 
 ## Project Structure
-globaltna-assessment/
-├── backend/    # Express REST API
-└── frontend/   # Next.js app
+globaltna-assessment
+ backend   # Express REST API
+ frontend  # Next.js app
 
 ## Environment Variables
 
