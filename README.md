@@ -25,7 +25,7 @@ NEXT_PUBLIC_API_URL=http://localhost:4000/api
 ## Setup Instructions
 
 ### 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/globaltna-assessment.git
+git clone https://github.com/mdewmini/globaltna-assessment.git
 cd globaltna-assessment
 
 ### 2. Backend setup
