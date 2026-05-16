@@ -10,8 +10,9 @@ A full-stack web app where homeowners can post service requests and tradespeople
 
 ## Project Structure
 globaltna-assessment
- backend   # Express REST API
- frontend  # Next.js app
+- backend/ - Express REST API
+- frontend/ - Next.js app
+- README.md
 
 ## Environment Variables
 
