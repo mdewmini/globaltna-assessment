@@ -54,5 +54,5 @@ npm run seed
 | DELETE | /api/jobs/:id | Delete job |
 
 ## Live URLs
-- **Frontend**: https://globaltna-assessment.vercel.app
-- **Backend**: https://globaltna-assessment.onrender.com
+- Frontend: https://globaltna-assessment.vercel.app
+- Backend: https://globaltna-assessment.onrender.com
